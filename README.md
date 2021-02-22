@@ -28,3 +28,15 @@ Which Top 3 States make a significant improvement in SAT Participation Rate duri
 * [`sat_2018.csv`](./data/sat_2018.csv): 2018 SAT Scores by State ([source](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/))
 * [`sat_2019.csv`](./data/sat_2019.csv): 2019 SAT Scores by State ([source](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent))
 
+
+### Key takeaways
+
+1. Colorado, Illinois and West Virginia  are the Top 3 states,	which make a significant improvement in SAT Participation Rate during 2017-2019. 
+2. These states change policy for using SAT as new standardized test for junior high schools. 
+3. ACT participation rate has significantly decreased after the states changed the policy. 
+
+### Conclusion
+
+	States policy make a significant change in participation rate. 
+	All students must check States policy before taking a Test.
+
